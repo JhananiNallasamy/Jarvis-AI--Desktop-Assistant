@@ -1,0 +1,5 @@
+0. eat
+1. sleep
+2. code
+3. play
+4. learn
